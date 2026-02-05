@@ -56,11 +56,11 @@
   &nbsp;&nbsp; <!-- 간격 조절용 공백 -->
   
    <!-- 진피티 -->
-  <a href="/">
-    <img src="https://images.weserv.nl/?url=https://private-user-images.githubusercontent.com/127266872/545330707-20c1f617-87e6-4628-9418-ba415c45ecfb.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzAyNTkxMjcsIm5iZiI6MTc3MDI1ODgyNywicGF0aCI6Ii8xMjcyNjY4NzIvNTQ1MzMwNzA3LTIwYzFmNjE3LTg3ZTYtNDYyOC05NDE4LWJhNDE1YzQ1ZWNmYi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIwNVQwMjMzNDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03Y2MwZmQzMDk4NWEyMjQwYzQ4NzI4OWI2OGZhMmU0ZTE4MjM0OTJhNGFhYWM1N2UxNzYyMGU5Mjk3OTlkZTg3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lBqiYlE60crBRYhAiK5QSomoyZOlYeRaskCpg2ffxRw?v=4&mask=circle&w=70&h=70" alt="진피티" />
+  <a href="https://github.com/zzzjinwook/discord-jinpt-public?tab=readme-ov-file">
+    <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/248678709?s=200&v=4?v=4&mask=circle&w=70&h=70" alt="진피티" />
   </a>
-  &nbsp;&nbsp; <!-- 간격 조절용 공백 -->
-  
+    &nbsp;&nbsp; <!-- 간격 조절용 공백 -->
+
 </div>
 
 <div align="center">
