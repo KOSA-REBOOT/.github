@@ -56,8 +56,8 @@
   &nbsp;&nbsp; <!-- 간격 조절용 공백 -->
   
    <!-- 진피티 -->
-  <a href="https://github.com/zzzjinwook/discord-jinpt-public?tab=readme-ov-file">
-    <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/248678709?s=200&v=4?v=4&mask=circle&w=70&h=70" alt="진피티" />
+  <a href="https://github.com/jinpt-earlybug">
+    <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/263499435?v=4&mask=circle&w=70&h=70" alt="진피티" />
   </a>
     &nbsp;&nbsp; <!-- 간격 조절용 공백 -->
 
